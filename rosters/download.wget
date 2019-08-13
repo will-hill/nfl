@@ -1,0 +1,139 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<meta name="robots" content="noindex">
+<title>Annual</title>
+<script language="JavaScript" type="text/javascript">
+<!-- 
+document._domino_target = "_self";
+function _doClick(v, o, t) {
+  var returnValue = false;
+  var url="/football/pro/rosters.nsf/Annual?OpenView&Click=" + v;
+  if (o.href != null) {
+    o.href = url;
+    returnValue = true;
+  } else {
+    if (t == null)
+      t = document._domino_target;
+    window.open(url, t);
+  }
+  return returnValue;
+}
+// -->
+</script>
+</head>
+<body text="#000000" bgcolor="#FFFFFF">
+<div align="center">
+<table cellspacing="2" cellpadding="2">
+<tr valign="top"><td><a href="/football/pro/rosters.nsf/Annual?OpenView&amp;Start=1" target="_self"><img align="top" src="/icons/prevview.gif" border="0" alt="Left Arrow Icon">Previous</a></td><td><a href="/football/pro/rosters.nsf/Annual?OpenView&amp;Start=50" target="_self"><img align="top" src="/icons/nextview.gif" border="0" alt="Right Arrow Icon">Next</a></td><td><a href="/football/pro/rosters.nsf/Annual?OpenView&amp;ExpandView" target="_self"><img align="top" src="/icons/expview.gif" border="0" alt="Plus Icon">Expand</a></td><td><a href="/football/pro/rosters.nsf/Annual?OpenView&amp;CollapseView" target="_self"><img align="top" src="/icons/colview.gif" border="0" alt="Minus Icon">Collapse</a></td><td><a href="/football/pro/rosters.nsf/e6b928029729064d85256b1e0002e065/$searchForm?SearchView" target="_self"><img align="top" src="/icons/schview.gif" border="0" alt="Magnifying Glass Icon">Search</a></td></tr>
+</table>
+</div><div align="center"><h2>Annual</h2></div>
+<table border="0" cellpadding="2" cellspacing="0">
+<tr><th nowrap align="left"><b><font size="2">Season-Team</font></b></th></tr>
+
+<tr valign="top"><td nowrap><img width="16" height="1" src="/icons/ecblank.gif" border="0" alt=""><a href="/football/pro/rosters.nsf/e6b928029729064d85256b1e0002e065/3788c252d9917c7a85256b59000b4bbe?OpenDocument">1920-akr</a></td></tr>
+
+<tr valign="top"><td nowrap><img width="16" height="1" src="/icons/ecblank.gif" border="0" alt=""><a href="/football/pro/rosters.nsf/e6b928029729064d85256b1e0002e065/58d47f48560dd44785257a7b0066e941?OpenDocument">1920-akr-jn</a></td></tr>
+
+<tr valign="top"><td nowrap><img width="16" height="1" src="/icons/ecblank.gif" border="0" alt=""><a href="/football/pro/rosters.nsf/e6b928029729064d85256b1e0002e065/1f443acc8765ccc985257a7b0066f0e7?OpenDocument">1920-akr-st</a></td></tr>
+
+<tr valign="top"><td nowrap><img width="16" height="1" src="/icons/ecblank.gif" border="0" alt=""><a href="/football/pro/rosters.nsf/e6b928029729064d85256b1e0002e065/eef12cc3fe775b2e85256b59000b31de?OpenDocument">1920-buf</a></td></tr>
+
+<tr valign="top"><td nowrap><img width="16" height="1" src="/icons/ecblank.gif" border="0" alt=""><a href="/football/pro/rosters.nsf/e6b928029729064d85256b1e0002e065/90e75e5f1767fd3885257a7b0066ce70?OpenDocument">1920-buf-jn</a></td></tr>
+
+<tr valign="top"><td nowrap><img width="16" height="1" src="/icons/ecblank.gif" border="0" alt=""><a href="/football/pro/rosters.nsf/e6b928029729064d85256b1e0002e065/f20e386717cf33e685257a7b0066d15c?OpenDocument">1920-buf-st</a></td></tr>
+
+<tr valign="top"><td nowrap><img width="16" height="1" src="/icons/ecblank.gif" border="0" alt=""><a href="/football/pro/rosters.nsf/e6b928029729064d85256b1e0002e065/fdd50bf83f1cac4685256b59000b12ee?OpenDocument">1920-can</a></td></tr>
+
+<tr valign="top"><td nowrap><img width="16" height="1" src="/icons/ecblank.gif" border="0" alt=""><a href="/football/pro/rosters.nsf/e6b928029729064d85256b1e0002e065/7c17d65f2ba8601285257a7b002c4f3a?OpenDocument">1920-can-jn</a></td></tr>
+
+<tr valign="top"><td nowrap><img width="16" height="1" src="/icons/ecblank.gif" border="0" alt=""><a href="/football/pro/rosters.nsf/e6b928029729064d85256b1e0002e065/650fe66d0b23ba3d85257a7b002c566f?OpenDocument">1920-can-st</a></td></tr>
+
+<tr valign="top"><td nowrap><img width="16" height="1" src="/icons/ecblank.gif" border="0" alt=""><a href="/football/pro/rosters.nsf/e6b928029729064d85256b1e0002e065/6b4ef5d472f6228585256b59000b2f90?OpenDocument">1920-chc</a></td></tr>
+
+<tr valign="top"><td nowrap><img width="16" height="1" src="/icons/ecblank.gif" border="0" alt=""><a href="/football/pro/rosters.nsf/e6b928029729064d85256b1e0002e065/a1f373b95257a7a985257a7b0066c341?OpenDocument">1920-chc-jn</a></td></tr>
+
+<tr valign="top"><td nowrap><img width="16" height="1" src="/icons/ecblank.gif" border="0" alt=""><a href="/football/pro/rosters.nsf/e6b928029729064d85256b1e0002e065/a956926e3ec8c40885257a7b0066c637?OpenDocument">1920-chc-st</a></td></tr>
+
+<tr valign="top"><td nowrap><img width="16" height="1" src="/icons/ecblank.gif" border="0" alt=""><a href="/football/pro/rosters.nsf/e6b928029729064d85256b1e0002e065/2a1fda47a322796d85256b59000b0bcd?OpenDocument">1920-cht</a></td></tr>
+
+<tr valign="top"><td nowrap><img width="16" height="1" src="/icons/ecblank.gif" border="0" alt=""><a href="/football/pro/rosters.nsf/e6b928029729064d85256b1e0002e065/c8becf28aa96b8a085257a7b002b43f5?OpenDocument">1920-cht-jn</a></td></tr>
+
+<tr valign="top"><td nowrap><img width="16" height="1" src="/icons/ecblank.gif" border="0" alt=""><a href="/football/pro/rosters.nsf/e6b928029729064d85256b1e0002e065/aa434e754c0ea2fe85257a7b002b4bac?OpenDocument">1920-cht-st</a></td></tr>
+
+<tr valign="top"><td nowrap><img width="16" height="1" src="/icons/ecblank.gif" border="0" alt=""><a href="/football/pro/rosters.nsf/e6b928029729064d85256b1e0002e065/981d286adf0d082c85256b59000b4e20?OpenDocument">1920-cle</a></td></tr>
+
+<tr valign="top"><td nowrap><img width="16" height="1" src="/icons/ecblank.gif" border="0" alt=""><a href="/football/pro/rosters.nsf/e6b928029729064d85256b1e0002e065/54eb07eda89e712785257a7b0066fbd3?OpenDocument">1920-cle-jn</a></td></tr>
+
+<tr valign="top"><td nowrap><img width="16" height="1" src="/icons/ecblank.gif" border="0" alt=""><a href="/football/pro/rosters.nsf/e6b928029729064d85256b1e0002e065/7f071e524dc5dc3585257a7b006700c6?OpenDocument">1920-cle-st</a></td></tr>
+
+<tr valign="top"><td nowrap><img width="16" height="1" src="/icons/ecblank.gif" border="0" alt=""><a href="/football/pro/rosters.nsf/e6b928029729064d85256b1e0002e065/5310d7584cb9478e85256b59000b36a9?OpenDocument">1920-col</a></td></tr>
+
+<tr valign="top"><td nowrap><img width="16" height="1" src="/icons/ecblank.gif" border="0" alt=""><a href="/football/pro/rosters.nsf/e6b928029729064d85256b1e0002e065/3b37e9fb38d94be985257a7b0066d9e1?OpenDocument">1920-col-jn</a></td></tr>
+
+<tr valign="top"><td nowrap><img width="16" height="1" src="/icons/ecblank.gif" border="0" alt=""><a href="/football/pro/rosters.nsf/e6b928029729064d85256b1e0002e065/b96be5fa3dfef27f85257a7b0066dd88?OpenDocument">1920-col-st</a></td></tr>
+
+<tr valign="top"><td nowrap><img width="16" height="1" src="/icons/ecblank.gif" border="0" alt=""><a href="/football/pro/rosters.nsf/e6b928029729064d85256b1e0002e065/a0d935e7f868bab685256b590007e9ed?OpenDocument">1920-day</a></td></tr>
+
+<tr valign="top"><td nowrap><img width="16" height="1" src="/icons/ecblank.gif" border="0" alt=""><a href="/football/pro/rosters.nsf/e6b928029729064d85256b1e0002e065/8a9676f2bfc15fb485257a7b001a21b4?OpenDocument">1920-day-jn</a></td></tr>
+
+<tr valign="top"><td nowrap><img width="16" height="1" src="/icons/ecblank.gif" border="0" alt=""><a href="/football/pro/rosters.nsf/e6b928029729064d85256b1e0002e065/c9d87b22c3a6cc4285257a7b001a27a4?OpenDocument">1920-day-st</a></td></tr>
+
+<tr valign="top"><td nowrap><img width="16" height="1" src="/icons/ecblank.gif" border="0" alt=""><a href="/football/pro/rosters.nsf/e6b928029729064d85256b1e0002e065/7c7b14bde97ca2a685256b59000b4041?OpenDocument">1920-dec</a></td></tr>
+
+<tr valign="top"><td nowrap><img width="16" height="1" src="/icons/ecblank.gif" border="0" alt=""><a href="/football/pro/rosters.nsf/e6b928029729064d85256b1e0002e065/da8fbc1c08a8238a85257a7b00674ef5?OpenDocument">1920-dec-jn</a></td></tr>
+
+<tr valign="top"><td nowrap><img width="16" height="1" src="/icons/ecblank.gif" border="0" alt=""><a href="/football/pro/rosters.nsf/e6b928029729064d85256b1e0002e065/a35c28c4113b24a885257a7b00675219?OpenDocument">1920-dec-st</a></td></tr>
+
+<tr valign="top"><td nowrap><img width="16" height="1" src="/icons/ecblank.gif" border="0" alt=""><a href="/football/pro/rosters.nsf/e6b928029729064d85256b1e0002e065/a23612019b2cf50a85256b59000b1a09?OpenDocument">1920-det</a></td></tr>
+
+<tr valign="top"><td nowrap><img width="16" height="1" src="/icons/ecblank.gif" border="0" alt=""><a href="/football/pro/rosters.nsf/e6b928029729064d85256b1e0002e065/359a80728a040c0385257a7b002e1eed?OpenDocument">1920-det-jn</a></td></tr>
+
+<tr valign="top"><td nowrap><img width="16" height="1" src="/icons/ecblank.gif" border="0" alt=""><a href="/football/pro/rosters.nsf/e6b928029729064d85256b1e0002e065/157290c6c8387f0b85257a7b002e221f?OpenDocument">1920-det-st</a></td></tr>
+
+<tr valign="top"><td nowrap><img width="16" height="1" src="/icons/ecblank.gif" border="0" alt=""><a href="/football/pro/rosters.nsf/e6b928029729064d85256b1e0002e065/5f5e2d49924b53a385256b59000986b4?OpenDocument">1920-ham</a></td></tr>
+
+<tr valign="top"><td nowrap><img width="16" height="1" src="/icons/ecblank.gif" border="0" alt=""><a href="/football/pro/rosters.nsf/e6b928029729064d85256b1e0002e065/92028de6b6372f1885257a7b00268f6c?OpenDocument">1920-ham-jn</a></td></tr>
+
+<tr valign="top"><td nowrap><img width="16" height="1" src="/icons/ecblank.gif" border="0" alt=""><a href="/football/pro/rosters.nsf/e6b928029729064d85256b1e0002e065/b143ad4199d1241185257a7b002697b6?OpenDocument">1920-ham-st</a></td></tr>
+
+<tr valign="top"><td nowrap><img width="16" height="1" src="/icons/ecblank.gif" border="0" alt=""><a href="/football/pro/rosters.nsf/e6b928029729064d85256b1e0002e065/d32b8ed575074afe85256b59000b049c?OpenDocument">1920-mun</a></td></tr>
+
+<tr valign="top"><td nowrap><img width="16" height="1" src="/icons/ecblank.gif" border="0" alt=""><a href="/football/pro/rosters.nsf/e6b928029729064d85256b1e0002e065/17641ed62d7558aa85257a7b0029a156?OpenDocument">1920-mun-jn</a></td></tr>
+
+<tr valign="top"><td nowrap><img width="16" height="1" src="/icons/ecblank.gif" border="0" alt=""><a href="/football/pro/rosters.nsf/e6b928029729064d85256b1e0002e065/2c94f0ddee17918185257a7b0029a606?OpenDocument">1920-mun-st</a></td></tr>
+
+<tr valign="top"><td nowrap><img width="16" height="1" src="/icons/ecblank.gif" border="0" alt=""><a href="/football/pro/rosters.nsf/e6b928029729064d85256b1e0002e065/e3cbda5853e1dfe785256b59000b3b5c?OpenDocument">1920-ri</a></td></tr>
+
+<tr valign="top"><td nowrap><img width="16" height="1" src="/icons/ecblank.gif" border="0" alt=""><a href="/football/pro/rosters.nsf/e6b928029729064d85256b1e0002e065/1f88161f06eaf4a185257a7b0067817e?OpenDocument">1920-ri-jn</a></td></tr>
+
+<tr valign="top"><td nowrap><img width="16" height="1" src="/icons/ecblank.gif" border="0" alt=""><a href="/football/pro/rosters.nsf/e6b928029729064d85256b1e0002e065/40312a87612602ea85257a7b00678627?OpenDocument">1920-ri-st</a></td></tr>
+
+<tr valign="top"><td nowrap><img width="16" height="1" src="/icons/ecblank.gif" border="0" alt=""><a href="/football/pro/rosters.nsf/e6b928029729064d85256b1e0002e065/5cbedc22167e200685256b5900096a06?OpenDocument">1920-roc</a></td></tr>
+
+<tr valign="top"><td nowrap><img width="16" height="1" src="/icons/ecblank.gif" border="0" alt=""><a href="/football/pro/rosters.nsf/e6b928029729064d85256b1e0002e065/c91d102eadf2469c85257a7b0022abf8?OpenDocument">1920-roc-jn</a></td></tr>
+
+<tr valign="top"><td nowrap><img width="16" height="1" src="/icons/ecblank.gif" border="0" alt=""><a href="/football/pro/rosters.nsf/e6b928029729064d85256b1e0002e065/9f8f61bb3329cd1285257a7b0022b700?OpenDocument">1920-roc-st</a></td></tr>
+
+<tr valign="top"><td nowrap><img width="16" height="1" src="/icons/ecblank.gif" border="0" alt=""><a href="/football/pro/rosters.nsf/e6b928029729064d85256b1e0002e065/467f596c807eb03b85256b59000b3436?OpenDocument">1921-akr</a></td></tr>
+
+<tr valign="top"><td nowrap><img width="16" height="1" src="/icons/ecblank.gif" border="0" alt=""><a href="/football/pro/rosters.nsf/e6b928029729064d85256b1e0002e065/39ca29b1f21c3efd85257a7b0067ed73?OpenDocument">1921-akr-jn</a></td></tr>
+
+<tr valign="top"><td nowrap><img width="16" height="1" src="/icons/ecblank.gif" border="0" alt=""><a href="/football/pro/rosters.nsf/e6b928029729064d85256b1e0002e065/de58104a54f7277985257a7b0067f4bb?OpenDocument">1921-akr-st</a></td></tr>
+
+<tr valign="top"><td nowrap><img width="16" height="1" src="/icons/ecblank.gif" border="0" alt=""><a href="/football/pro/rosters.nsf/e6b928029729064d85256b1e0002e065/2a022ab316da8a1985256b59000b2176?OpenDocument">1921-buf</a></td></tr>
+
+<tr valign="top"><td nowrap><img width="16" height="1" src="/icons/ecblank.gif" border="0" alt=""><a href="/football/pro/rosters.nsf/e6b928029729064d85256b1e0002e065/95686822b9bf1bde85257a7b0067cf0f?OpenDocument">1921-buf-jn</a></td></tr>
+
+<tr valign="top"><td nowrap><img width="16" height="1" src="/icons/ecblank.gif" border="0" alt=""><a href="/football/pro/rosters.nsf/e6b928029729064d85256b1e0002e065/d82d17967f7cc01e85257a7b0067d225?OpenDocument">1921-buf-st</a></td></tr>
+
+<tr valign="top"><td nowrap><img width="16" height="1" src="/icons/ecblank.gif" border="0" alt=""><a href="/football/pro/rosters.nsf/e6b928029729064d85256b1e0002e065/7c8fcf2575cb6dec85256b59000afd6c?OpenDocument">1921-can</a></td></tr>
+
+<tr valign="top"><td nowrap><img width="16" height="1" src="/icons/ecblank.gif" border="0" alt=""><a href="/football/pro/rosters.nsf/e6b928029729064d85256b1e0002e065/9da5d69591baf81985257a7b00275b3e?OpenDocument">1921-can-jn</a></td></tr>
+</table>
+<div align="center">
+<table cellspacing="2" cellpadding="2">
+<tr valign="top"><td><a href="/football/pro/rosters.nsf/Annual?OpenView&amp;Start=1" target="_self"><img align="top" src="/icons/prevview.gif" border="0" alt="Left Arrow Icon">Previous</a></td><td><a href="/football/pro/rosters.nsf/Annual?OpenView&amp;Start=50" target="_self"><img align="top" src="/icons/nextview.gif" border="0" alt="Right Arrow Icon">Next</a></td><td><a href="/football/pro/rosters.nsf/Annual?OpenView&amp;ExpandView" target="_self"><img align="top" src="/icons/expview.gif" border="0" alt="Plus Icon">Expand</a></td><td><a href="/football/pro/rosters.nsf/Annual?OpenView&amp;CollapseView" target="_self"><img align="top" src="/icons/colview.gif" border="0" alt="Minus Icon">Collapse</a></td><td><a href="/football/pro/rosters.nsf/e6b928029729064d85256b1e0002e065/$searchForm?SearchView" target="_self"><img align="top" src="/icons/schview.gif" border="0" alt="Magnifying Glass Icon">Search</a></td></tr>
+</table>
+</div></body>
+</html>
